@@ -1,0 +1,43 @@
+﻿@model Sikayet
+@{
+    ViewData["Title"] = "Şikayet Ekle";
+}
+
+<script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.inputmask/5.0.6/jquery.inputmask.min.js"></script>
+
+<form method="post" action="/Home/SikayetEkle">
+    <div class="form-group">
+        <label asp-for="OlayTipi"></label>
+        <select name="OlayTipi" asp-items="@ViewBag.olayTipleri" class="form-control"></select>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="MusteriTipi"></label>
+        <select name="MusteriTipi" asp-items="@ViewBag.musteriTipleri" class="form-control"></select>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="OlayZamani"></label>
+        <input asp-for="OlayZamani" class="form-control" required />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="MusteriAdi"></label>
+        <input asp-for="MusteriAdi" class="form-control" required />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="CepTelefonu"></label>
+        <input asp-for="CepTelefonu" class="form-control"  data-mask="(999) 999-9999" required />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+
+
+<script>
+    $(document).ready(function () {
+        $(":input[data-mask]").inputmask();
+    });
+</script>

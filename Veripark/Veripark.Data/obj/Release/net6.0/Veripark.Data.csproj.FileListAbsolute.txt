@@ -1,0 +1,17 @@
+C:\Users\bidb\source\repos\Veripark\Veripark.Data\bin\Release\net6.0\Veripark.Data.deps.json
+C:\Users\bidb\source\repos\Veripark\Veripark.Data\bin\Release\net6.0\Veripark.Data.runtimeconfig.json
+C:\Users\bidb\source\repos\Veripark\Veripark.Data\bin\Release\net6.0\Veripark.Data.dll
+C:\Users\bidb\source\repos\Veripark\Veripark.Data\bin\Release\net6.0\Veripark.Data.pdb
+C:\Users\bidb\source\repos\Veripark\Veripark.Data\bin\Release\net6.0\Veripark.Entity.dll
+C:\Users\bidb\source\repos\Veripark\Veripark.Data\bin\Release\net6.0\Veripark.Entity.pdb
+C:\Users\bidb\source\repos\Veripark\Veripark.Data\obj\Release\net6.0\Veripark.Data.csproj.AssemblyReference.cache
+C:\Users\bidb\source\repos\Veripark\Veripark.Data\obj\Release\net6.0\Veripark.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bidb\source\repos\Veripark\Veripark.Data\obj\Release\net6.0\Veripark.Data.AssemblyInfoInputs.cache
+C:\Users\bidb\source\repos\Veripark\Veripark.Data\obj\Release\net6.0\Veripark.Data.AssemblyInfo.cs
+C:\Users\bidb\source\repos\Veripark\Veripark.Data\obj\Release\net6.0\Veripark.Data.csproj.CoreCompileInputs.cache
+C:\Users\bidb\source\repos\Veripark\Veripark.Data\obj\Release\net6.0\Veripark.Data.csproj.CopyComplete
+C:\Users\bidb\source\repos\Veripark\Veripark.Data\obj\Release\net6.0\Veripark.Data.dll
+C:\Users\bidb\source\repos\Veripark\Veripark.Data\obj\Release\net6.0\refint\Veripark.Data.dll
+C:\Users\bidb\source\repos\Veripark\Veripark.Data\obj\Release\net6.0\Veripark.Data.pdb
+C:\Users\bidb\source\repos\Veripark\Veripark.Data\obj\Release\net6.0\Veripark.Data.genruntimeconfig.cache
+C:\Users\bidb\source\repos\Veripark\Veripark.Data\obj\Release\net6.0\ref\Veripark.Data.dll

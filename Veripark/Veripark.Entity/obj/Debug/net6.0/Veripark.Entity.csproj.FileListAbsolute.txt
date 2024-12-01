@@ -1,0 +1,12 @@
+C:\Users\bidb\source\repos\Veripark\Veripark.Entity\bin\Debug\net6.0\Veripark.Entity.deps.json
+C:\Users\bidb\source\repos\Veripark\Veripark.Entity\bin\Debug\net6.0\Veripark.Entity.dll
+C:\Users\bidb\source\repos\Veripark\Veripark.Entity\bin\Debug\net6.0\Veripark.Entity.pdb
+C:\Users\bidb\source\repos\Veripark\Veripark.Entity\obj\Debug\net6.0\Veripark.Entity.csproj.AssemblyReference.cache
+C:\Users\bidb\source\repos\Veripark\Veripark.Entity\obj\Debug\net6.0\Veripark.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bidb\source\repos\Veripark\Veripark.Entity\obj\Debug\net6.0\Veripark.Entity.AssemblyInfoInputs.cache
+C:\Users\bidb\source\repos\Veripark\Veripark.Entity\obj\Debug\net6.0\Veripark.Entity.AssemblyInfo.cs
+C:\Users\bidb\source\repos\Veripark\Veripark.Entity\obj\Debug\net6.0\Veripark.Entity.csproj.CoreCompileInputs.cache
+C:\Users\bidb\source\repos\Veripark\Veripark.Entity\obj\Debug\net6.0\Veripark.Entity.dll
+C:\Users\bidb\source\repos\Veripark\Veripark.Entity\obj\Debug\net6.0\refint\Veripark.Entity.dll
+C:\Users\bidb\source\repos\Veripark\Veripark.Entity\obj\Debug\net6.0\Veripark.Entity.pdb
+C:\Users\bidb\source\repos\Veripark\Veripark.Entity\obj\Debug\net6.0\ref\Veripark.Entity.dll
